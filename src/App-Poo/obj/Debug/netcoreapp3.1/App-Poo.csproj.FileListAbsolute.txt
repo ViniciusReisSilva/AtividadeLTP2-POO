@@ -1,0 +1,13 @@
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\bin\Debug\netcoreapp3.1\App-Poo.exe
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\bin\Debug\netcoreapp3.1\App-Poo.deps.json
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\bin\Debug\netcoreapp3.1\App-Poo.runtimeconfig.json
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\bin\Debug\netcoreapp3.1\App-Poo.runtimeconfig.dev.json
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\bin\Debug\netcoreapp3.1\App-Poo.dll
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\bin\Debug\netcoreapp3.1\App-Poo.pdb
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\obj\Debug\netcoreapp3.1\App-Poo.csprojAssemblyReference.cache
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\obj\Debug\netcoreapp3.1\App-Poo.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\obj\Debug\netcoreapp3.1\App-Poo.AssemblyInfo.cs
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\obj\Debug\netcoreapp3.1\App-Poo.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\obj\Debug\netcoreapp3.1\App-Poo.dll
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\obj\Debug\netcoreapp3.1\App-Poo.pdb
+C:\Users\Vinicius\Documents\GitHub\Atividade-Hernaca-ltp2\App-Poo\obj\Debug\netcoreapp3.1\App-Poo.genruntimeconfig.cache
